@@ -235,6 +235,6 @@ text="{path:'/text', model:'buttons', formatter:'.onFormat'}" tooltip="chain-lin
                 </uxap:subSections>
             </uxap:ObjectPageSection>
         </uxap:sections>
-
+<m:Table id="newTable"></m:Table>
 </uxap:ObjectPageLayout>
 </mvc:View>
